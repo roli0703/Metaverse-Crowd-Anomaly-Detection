@@ -1,0 +1,40 @@
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Node modules (if using web components)
+node_modules/
+
+# OS / IDE specific files
+.DS_Store
+.vscode/
+.idea/
+Thumbs.db
+
+# Datasets and Zips
+*.zip
+Departure/
+Entrance/
+Metaverse Airport Crowd Anomaly Detection Dataset/
+Tracking activities of persons/
+UR_data/
+data/
+dataset_frames/
+dataset_vit/
+dataset_vit_run_1/
+metaverse_fall_predictions/
+
+# Model Weights & Binaries
+*.pth
+*.pt
+
+# Output Videos and Media
+*.mp4
+*.png
